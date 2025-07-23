@@ -1,5 +1,5 @@
 
-##  Objective
+##  Verilog-Based Sequence Detector
 
 Design and implement a digital logic circuit that detects the specific 8-bit binary sequence `01111110`. The detector should output a high signal (`z = 1`) when the sequence is fully matched on the positive edge of the clock.
 
