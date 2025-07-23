@@ -26,7 +26,7 @@ Design and implement a digital logic circuit that detects the specific 8-bit bin
 ##  Tools Used
 
 - Verilog HDL
-- Digital Simulator (e.g., ModelSim, GTKWave, Vivado)
+- Digital Simulator (e.g., ModelSim )
 - Logic design with flip-flops and gates
 
 ---
